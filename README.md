@@ -7,9 +7,15 @@
   <img src="csharp-cat-programmer.gif" width="200" alt="Programming Cat Animation"/>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.youtube.com/@DavidVela-306tr">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+<a href="https://www.instagram.com/davidvela306/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/davidvela306/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
 </div>
 
 ## 👨‍💻 About Me
@@ -79,19 +85,3 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="40" height="40" alt="Linux" />
 </div>
 </details>
-
-## 🌐 Connect With Me
-
-###
-
-<div align="center">
-<a href="https://www.youtube.com/@DavidVela-306tr">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-<a href="https://www.instagram.com/davidvela306/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-<a href="https://www.linkedin.com/in/davidvela306/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-</div>
