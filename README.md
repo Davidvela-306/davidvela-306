@@ -3,7 +3,7 @@
     Hi there, I'm David Vela!
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
   </h1>
-  <p><em>Frontend Developer with a passion for creating exceptional user experiences</em></p>
+  <p><em>Software Developer with a passion for creating exceptional user experiences</em></p>
   <img src="csharp-cat-programmer.gif" width="200" alt="Programming Cat Animation"/>
 </div>
 <div align="center">
